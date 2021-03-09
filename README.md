@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi! 👋
+
+I am an Artificial Intelligence and Robotics enthusiast involved with the research and application of these magnificent technologies.
+
+### Contact me at:
+
+[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/gA54pMHqVt) [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917838037123) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ridhwanluthra/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luthraridhwan@gmail.com)
 
 <!--
 **Ridhwanluthra/ridhwanluthra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
